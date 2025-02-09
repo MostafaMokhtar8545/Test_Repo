@@ -7,6 +7,7 @@ using namespace std;
 void sol(){
     /////* Solution */////
     cout << "this is hot" << '\n';
+    cout << "hello new branch";
     
     
     //////////////////////
